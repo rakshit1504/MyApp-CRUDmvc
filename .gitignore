@@ -1,1 +1,8 @@
 .vs
+# Build folders
+bin/
+obj/
+
+# Sensitive config files
+web.config
+appsettings.json
