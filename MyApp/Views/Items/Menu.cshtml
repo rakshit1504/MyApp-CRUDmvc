@@ -1,0 +1,37 @@
+﻿@model List<MyApp.Models.Category>
+@{
+	ViewData["Title"] = "Menu";
+
+}
+
+<h3>School info</h3>
+
+<table class="table">
+	<thead>
+		<tr>
+			<th>School ID</th>
+			<th>Name</th>
+			
+		</tr>
+
+	</thead>
+
+	<tbody>
+		@foreach (var item in Model)
+		{
+			<tr>
+				<td>
+					@item.Id
+				</td>
+				<td>
+					@item.Name
+				
+			</tr>
+		}
+	</tbody>
+
+</table>
+
+<a asp-action="Index" class="btn btn-primary">Go to Students' info</a>
+
+
