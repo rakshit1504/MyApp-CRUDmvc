@@ -91,4 +91,45 @@ The project models a basic **student and school management system**, with the fo
 ---
 
 ## 📁 Folder Structure Highlights
+/MyApp
+├── Controllers
+│ ├── HomeController.cs
+│ └── ItemsController.cs
+├── Data
+│ ├── MyAppContext.cs
+├── Views
+│ ├── Home/
+│ ├── Items/
+│ └── Shared/
+│ └── _Layout.cshtml
+├── appsettings.json
+├── Program.cs
+└── MyApp.sln
+
+
+
+---
+
+## 🛡️ Notes
+
+- Sensitive files such as `web.config` have been excluded from version control via `.gitignore`
+- Database connection string uses company credentials and is **not** exposed in this repository
+
+---
+
+## 📈 Future Improvements (Optional Ideas)
+
+- Add search/filter functionality to the Students list
+- Implement pagination for large data sets
+- Add authentication for admin access to CRUD operations
+- Replace static school list with full CRUD management
+
+---
+
+## 📬 Contact
+
+Built as part of internship training in .NET technologies. For more details, feel free to connect or reach out.
+
+---
+
 
