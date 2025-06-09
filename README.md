@@ -91,23 +91,20 @@ The project models a basic **student and school management system**, with the fo
 ---
 
 ## 📁 Folder Structure Highlights
-/MyApp
-├── Controllers
-│ ├── HomeController.cs
-│ └── ItemsController.cs
-├── Data
-│ ├── MyAppContext.cs
-├── Views
-│ ├── Home/
-│ ├── Items/
-│ └── Shared/
-│ └── _Layout.cshtml
-├── appsettings.json
-├── Program.cs
-└── MyApp.sln
-
-
-
+/MyApp  
+├── Controllers  
+│ ├── HomeController.cs  
+│ └── ItemsController.cs  
+├── Data  
+│ ├── MyAppContext.cs  
+├── Views  
+│ ├── Home/  
+│ ├── Items/  
+│ └── Shared/  
+│ └── _Layout.cshtml  
+├── appsettings.json  
+├── Program.cs  
+└── MyApp.sln  
 ---
 
 ## 🛡️ Notes
