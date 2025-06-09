@@ -128,7 +128,7 @@ The project models a basic **student and school management system**, with the fo
 
 ## 📬 Contact
 
-Built as part of internship training in .NET technologies. For more details, feel free to connect or reach out.
+Built by Rakshit Bansal as part of internship training in .NET technologies. For more details, feel free to connect or reach out.
 
 ---
 
