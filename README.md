@@ -105,6 +105,7 @@ The project models a basic **student and school management system**, with the fo
 ├── appsettings.json  
 ├── Program.cs  
 └── MyApp.sln  
+
 ---
 
 ## 🛡️ Notes
