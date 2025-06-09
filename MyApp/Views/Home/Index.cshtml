@@ -1,8 +1,38 @@
-﻿@{
+@{
     ViewData["Title"] = "Home Page";
 }
 
-<div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+<div class="container py-5">
+    <div class="text-center">
+        <h1 class="display-4">Student & School Management System</h1>
+        <p class="lead">An ASP.NET MVC web application developed as part of a .NET internship project.</p>
+    </div>
+
+    <hr />
+
+    <div class="row mt-4">
+        <div class="col-md-6">
+            <h4>📘 Project Overview</h4>
+            <p>
+                This web app allows you to manage student records and their associated schools.
+                Built with ASP.NET MVC and SQL Server, it showcases CRUD functionality, foreign key relationships,
+                and seamless data entry via dropdown selection.
+            </p>
+        </div>
+
+        <div class="col-md-6">
+            <h4>🛠️ Features</h4>
+            <ul>
+                <li>Student and School tables with relational mapping</li>
+                <li>Dropdown list for assigning schools during student creation</li>
+                <li>CRUD operations on student data</li>
+                <li>Simple and clean navigation from the Home menu</li>
+            </ul>
+        </div>
+    </div>
+
+    <div class="mt-4 text-center">
+        <a class="btn btn-primary btn-lg mx-2" asp-controller="Items" asp-action="Index">Go to Students</a>
+        <a class="btn btn-outline-primary btn-lg mx-2" asp-controller="Items" asp-action="Menu">Go to Schools</a>
+    </div>
 </div>
