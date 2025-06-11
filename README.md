@@ -51,7 +51,7 @@ The project models a basic **student and school management system**, with the fo
 
 ## 🧭 Navigation Flow
 
-- **Home Page**: Central landing page with a menu dropdown
+- **Home Page**: Central landing page with a menu dropdown and interactive buttons for both pages
 - **Menu > Students**: Displays the complete list of students along with their associated school details
 - **Menu > Schools**: Lists 5 predefined schools
 
