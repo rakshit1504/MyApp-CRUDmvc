@@ -12,7 +12,6 @@ The project was built during the first week of the internship and demonstrates a
 - **Razor Views**
 - **Bootstrap (via layout view)**
 
----
 
 ## 📌 Project Overview
 
@@ -47,7 +46,6 @@ The project models a basic **student and school management system**, with the fo
 | Phone Number | int      | Student's phone number              |
 | SchoolID     | int      | Foreign Key referencing `Schools`   |
 
----
 
 ## 🧭 Navigation Flow
 
@@ -65,13 +63,11 @@ The project models a basic **student and school management system**, with the fo
 
 ![Home Page](screenshots/homepage.png)
 
----
 
 ### Students Index Page (List View)
 
 ![Students Page](screenshots/students_index.png)
 
----
 
 ### Student Create Page with School Dropdown
 
@@ -88,7 +84,6 @@ The project models a basic **student and school management system**, with the fo
 - Server-side validation and clean form UI
 - Bootstrap-styled layout for responsiveness
 
----
 
 ## 📁 Folder Structure Highlights
 /MyApp  
@@ -113,7 +108,6 @@ The project models a basic **student and school management system**, with the fo
 - Sensitive files such as `web.config` have been excluded from version control via `.gitignore`
 - Database connection string uses company credentials and is **not** exposed in this repository
 
----
 
 ## 📈 Future Improvements (Optional Ideas)
 
@@ -122,11 +116,10 @@ The project models a basic **student and school management system**, with the fo
 - Add authentication for admin access to CRUD operations
 - Replace static school list with full CRUD management
 
----
 
 ## 📬 Contact
 
-Built by Rakshit Bansal as part of internship training in .NET technologies. For more details, feel free to connect or reach out.
+Built by **Rakshit Bansal** as part of internship training in .NET technologies. For more details, feel free to connect or reach out.
 
 ---
 
