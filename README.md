@@ -50,6 +50,8 @@ The project models a basic **student and school management system**, with the fo
 
 ---
 
+
+
 ## 🧭 Navigation Flow
 
 - **Home Page**: Central landing page with a menu dropdown and interactive buttons for both pages
