@@ -1,4 +1,4 @@
-# Student & School Management Web App (.NET MVC)
+# Student & School Management Web App (.NET MVC) 
  
 This is a web-based CRUD application developed during my internship using **ASP.NET MVC (Model-View-Controller)** framework and connected to a **SQL Server (SSMS)** backend. 
 The project was built during the first week of the internship and demonstrates a solid understanding of relational database integration, MVC architecture, and user interface implementation in a full-stack .NET environment.
