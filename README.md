@@ -64,25 +64,25 @@ The project models a basic **student and school management system**, with the fo
 
 ### Home Page with Navigation
 
-![Home Page](screenshots/ss7.png)
-![Home Page](screenshots/ss8.png)
-![Home Page](screenshots/ss9.png)
+![Home Page](screenshots/ss7.jpg)
+![Home Page](screenshots/ss8.jpg)
+![Home Page](screenshots/ss9.jpg)
 
 
 
 ### Students Index Page (List View)
 
-![Students Page](screenshots/ss10.png)
-![Students Page](screenshots/ss11.png)
-![Students Page](screenshots/ss12.png)
+![Students Page](screenshots/ss10.jpg)
+![Students Page](screenshots/ss11.jpg)
+![Students Page](screenshots/ss12.jpg)
 
 
 ### Student Create Page with School Dropdown
 
-![Create Student](screenshots/ss13.png)
-![Create Student](screenshots/ss14.png)
-![Create Student](screenshots/ss15.png)
-![Create Student](screenshots/ss16.png)
+![Create Student](screenshots/ss13.jpg)
+![Create Student](screenshots/ss14.jpg)
+![Create Student](screenshots/ss15.jpg)
+![Create Student](screenshots/ss16.jpg)
 
 ---
 
