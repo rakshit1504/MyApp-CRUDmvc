@@ -62,26 +62,33 @@ The project models a basic **student and school management system**, with the fo
 
 
 
-### Home Page with Navigation
+#### Home Page with Navigation
 
 ![Home Page](screenshots/ss7.jpg)
+#### Schools Page (List View)
 ![Home Page](screenshots/ss8.jpg)
+#### Students Index Page (List View)
 ![Home Page](screenshots/ss9.jpg)
 
+### CRUD Operations:
 
-
-### Students Index Page (List View)
-
-![Students Page](screenshots/ss10.jpg)
+#### Student Create Page with School Dropdown
 ![Students Page](screenshots/ss11.jpg)
+#### after creation:
+![Students Page](screenshots/ss10.jpg)
+
+#### Edit page
 ![Students Page](screenshots/ss12.jpg)
 
-
-### Student Create Page with School Dropdown
-
+#### After editing:
 ![Create Student](screenshots/ss13.jpg)
+
+#### Delete page
 ![Create Student](screenshots/ss14.jpg)
+#### After deletion
 ![Create Student](screenshots/ss15.jpg)
+
+### SSMS table view
 ![Create Student](screenshots/ss16.jpg)
 
 ---
