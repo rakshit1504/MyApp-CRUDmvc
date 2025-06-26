@@ -74,7 +74,7 @@ The project models a basic **student and school management system**, with the fo
 
 #### Student Create Page with School Dropdown
 ![Students Page](screenshots/ss11.jpg)
-#### after creation:
+#### After creation:
 ![Students Page](screenshots/ss10.jpg)
 
 #### Edit page
@@ -85,7 +85,7 @@ The project models a basic **student and school management system**, with the fo
 
 #### Delete page
 ![Create Student](screenshots/ss14.jpg)
-#### After deletion
+#### After deletion:
 ![Create Student](screenshots/ss15.jpg)
 
 ### SSMS table view
