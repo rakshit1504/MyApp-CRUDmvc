@@ -3,7 +3,6 @@ This is a web-based CRUD application developed during my internship using **ASP.
 The project was built during the first week of the internship and demonstrates a solid understanding of relational database integration, MVC architecture, and user interface implementation in a full-stack .NET environment.
 
 ## 🔧 Technologies Used
-
 - **ASP.NET MVC 5**
 - **C#**
 - **SQL Server Management Studio (SSMS)**
